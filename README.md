@@ -15,7 +15,7 @@ based systems. This is a clean and minimal black theme for it.
 
  3. Clone this repository into the `themes` directory.
 
- 4. To enable the theme add `include themes/rEFInd-minimal/theme.conf` at the end of
+ 4. To enable the theme add `include themes/rEFInd-minimal-black/theme.conf` at the end of
     `refind.conf`.
 
 Here's an example menuentry configuration (from the screenshot)
